@@ -15,9 +15,10 @@ public class Hola {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        int numero;
-        //hlaaksjfb
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
-    
+
 }
